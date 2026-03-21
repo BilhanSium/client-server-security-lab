@@ -24,4 +24,4 @@ Built a client-server lab to analyze secure communication and web vulnerabilitie
 - Strengthened understanding of web security fundamentals
 
 ## Screenshots
-(Add screenshots here)
+![VM Instances](vm-instances.png)
