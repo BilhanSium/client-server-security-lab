@@ -24,4 +24,12 @@ Built a client-server lab to analyze secure communication and web vulnerabilitie
 - Strengthened understanding of web security fundamentals
 
 ## Screenshots
+
+### Cloud Infrastructure Setup
 ![VM Instances](vm-instances.png)
+
+### Server Configuration (SSH)
+![SSH Configuration](ssh-config.png)
+
+### Web Server Deployment
+![Web Server](web-server.png)
